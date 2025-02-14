@@ -9,6 +9,7 @@ Porque nos permite crear un codigo eficiente y nos permite evitar errores y admi
 
 
 **Enunciado 1: Clasificación de edad**
+
 Un programa debe determinar la categoría de una persona según su edad:
 
 **Menos de 12 años:** Niño
@@ -19,7 +20,9 @@ Un programa debe determinar la categoría de una persona según su edad:
 En este caso se utilizo la estructura if-else por capacidad para manejar rangos de valores de una forma mas eficiente.
 
 **Enunciado 2: Día de la semana**
+
 Se quiere crear un programa que reciba un número del 1 al 7 y devuelva el nombre del día correspondiente.
+
 1 = Lunes
 2 = Martes
 3 = Miércoles
@@ -31,6 +34,7 @@ Se quiere crear un programa que reciba un número del 1 al 7 y devuelva el nombr
 Se utilizo la estructura switch porque se estan utilizando valores discretos y especificos ( 1 al 7)
 
 **Enunciado 3: Verificación de acceso**
+
 Un usuario intenta iniciar sesión en una aplicación. Debes verificar:
 
 Si el usuario ingresó el nombre y contraseña correctos, mostrar "Acceso concedido".
